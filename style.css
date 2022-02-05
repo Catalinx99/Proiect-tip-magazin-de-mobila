@@ -239,4 +239,9 @@ div .msg2 {
     nav li {
         display: block;
     }
+    .column{
+        float: none;
+        width: 100%;
+        height: auto;
+    }
 }
